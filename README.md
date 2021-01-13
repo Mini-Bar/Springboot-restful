@@ -95,3 +95,11 @@ resource_id：资源的id，访问或操作该资源。
 410 `Gone -[GET]`：用户请求的资源被永久删除，且不会再得到的。
 422 `Unprocesable entity - [POST/PUT/PATCH]` 当创建一个对象时，发生一个验证错误。
 500 `INTERNAL SERVER ERROR - [*]`：服务器发生错误，用户将无法判断发出的请求是否成功。
+
+
+
+##### 引用
+
+https://zhuanlan.zhihu.com/p/121522365
+
+https://zhuanlan.zhihu.com/p/334809573
